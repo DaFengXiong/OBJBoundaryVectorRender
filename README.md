@@ -1,4 +1,4 @@
 # OBJBoundaryVectorRender
 
-![240](example\240.png)
+![image](https://github.com/DaFengXiong/OBJBoundaryVectorRender/example/240.png)
 
