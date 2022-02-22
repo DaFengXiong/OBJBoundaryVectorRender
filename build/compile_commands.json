@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DCGAL_USE_GMP -DCGAL_USE_GMPXX -DCGAL_USE_MPFR -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master -isystem /usr/include/x86_64-linux-gnu -I/usr/include/eigen3  -g -O2 -fdebug-prefix-map=/build/cgal-ZyilPF/cgal-4.11=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -frounding-math -Wall -fopenmp -Wno-int-in-bool-context -Wno-sign-compare -g -fsanitize=address   -std=gnu++14 -o CMakeFiles/vector_render.dir/src/main.cc.o -c /remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/main.cc",
+  "file": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/main.cc"
+},
+{
+  "directory": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DCGAL_USE_GMP -DCGAL_USE_GMPXX -DCGAL_USE_MPFR -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master -isystem /usr/include/x86_64-linux-gnu -I/usr/include/eigen3  -g -O2 -fdebug-prefix-map=/build/cgal-ZyilPF/cgal-4.11=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -frounding-math -Wall -fopenmp -Wno-int-in-bool-context -Wno-sign-compare -g -fsanitize=address   -std=gnu++14 -o CMakeFiles/vector_render.dir/src/arrangement.cc.o -c /remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/arrangement.cc",
+  "file": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/arrangement.cc"
+},
+{
+  "directory": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DCGAL_USE_GMP -DCGAL_USE_GMPXX -DCGAL_USE_MPFR -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master -isystem /usr/include/x86_64-linux-gnu -I/usr/include/eigen3  -g -O2 -fdebug-prefix-map=/build/cgal-ZyilPF/cgal-4.11=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -frounding-math -Wall -fopenmp -Wno-int-in-bool-context -Wno-sign-compare -g -fsanitize=address   -std=gnu++14 -o CMakeFiles/vector_render.dir/src/camera.cc.o -c /remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/camera.cc",
+  "file": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/camera.cc"
+},
+{
+  "directory": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DCGAL_USE_GMP -DCGAL_USE_GMPXX -DCGAL_USE_MPFR -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master -isystem /usr/include/x86_64-linux-gnu -I/usr/include/eigen3  -g -O2 -fdebug-prefix-map=/build/cgal-ZyilPF/cgal-4.11=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -frounding-math -Wall -fopenmp -Wno-int-in-bool-context -Wno-sign-compare -g -fsanitize=address   -std=gnu++14 -o CMakeFiles/vector_render.dir/src/divide_conquer_construct.cc.o -c /remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/divide_conquer_construct.cc",
+  "file": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/divide_conquer_construct.cc"
+},
+{
+  "directory": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DCGAL_USE_GMP -DCGAL_USE_GMPXX -DCGAL_USE_MPFR -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master -isystem /usr/include/x86_64-linux-gnu -I/usr/include/eigen3  -g -O2 -fdebug-prefix-map=/build/cgal-ZyilPF/cgal-4.11=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -frounding-math -Wall -fopenmp -Wno-int-in-bool-context -Wno-sign-compare -g -fsanitize=address   -std=gnu++14 -o CMakeFiles/vector_render.dir/src/mesh.cc.o -c /remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/mesh.cc",
+  "file": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/mesh.cc"
+},
+{
+  "directory": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DCGAL_USE_GMP -DCGAL_USE_GMPXX -DCGAL_USE_MPFR -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master -isystem /usr/include/x86_64-linux-gnu -I/usr/include/eigen3  -g -O2 -fdebug-prefix-map=/build/cgal-ZyilPF/cgal-4.11=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -frounding-math -Wall -fopenmp -Wno-int-in-bool-context -Wno-sign-compare -g -fsanitize=address   -std=gnu++14 -o CMakeFiles/vector_render.dir/src/plane_param.cc.o -c /remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/plane_param.cc",
+  "file": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/plane_param.cc"
+},
+{
+  "directory": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DCGAL_USE_GMP -DCGAL_USE_GMPXX -DCGAL_USE_MPFR -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master -isystem /usr/include/x86_64-linux-gnu -I/usr/include/eigen3  -g -O2 -fdebug-prefix-map=/build/cgal-ZyilPF/cgal-4.11=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -frounding-math -Wall -fopenmp -Wno-int-in-bool-context -Wno-sign-compare -g -fsanitize=address   -std=gnu++14 -o CMakeFiles/vector_render.dir/src/postprocess.cc.o -c /remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/postprocess.cc",
+  "file": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/postprocess.cc"
+},
+{
+  "directory": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DCGAL_USE_GMP -DCGAL_USE_GMPXX -DCGAL_USE_MPFR -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/build -I/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master -isystem /usr/include/x86_64-linux-gnu -I/usr/include/eigen3  -g -O2 -fdebug-prefix-map=/build/cgal-ZyilPF/cgal-4.11=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -frounding-math -Wall -fopenmp -Wno-int-in-bool-context -Wno-sign-compare -g -fsanitize=address   -std=gnu++14 -o CMakeFiles/vector_render.dir/src/split_data.cc.o -c /remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/split_data.cc",
+  "file": "/remote-home/1910682/lunwen2/datasets/VectorGraphRenderer-master/src/split_data.cc"
+}
+]
